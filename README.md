@@ -16,10 +16,7 @@
   <img align="center" alt="androidstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
- 
-
-
-          
+    
 
  <br>
  
